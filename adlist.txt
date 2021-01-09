@@ -242,4 +242,7 @@
 0.0.0.0 www.ufa7777.com
 0.0.0.0 www.ufa6666.com
 0.0.0.0 www.ufabet.com
+0.0.0.0 www.la-ibc.com
+1.1.1.1 www.la-ibc.com
+0.0.0.0 movie222hd.com/wp-content/uploads/16055.gif
 
