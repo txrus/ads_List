@@ -249,5 +249,7 @@
 0.0.0.0 dubai888.com
 0.0.0.0 www.macau8882.com
 0.0.0.0 sagame77.net
+0.0.0.0 ufabets188.com
+0.0.0.0 www.bunnyslot.com
 
 
