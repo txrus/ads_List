@@ -1,4 +1,4 @@
-# Host file to block ads
+# Host file to block ads&gambling
 # Title: txrus's adlist for practice
 # Hosts contributed by txrus <mitch.xuixide@gmail.com>
 # ===================================================================
@@ -23,3 +23,5 @@
 1.1.1.1 images2.imgbox.com
 1.1.1.1 i.ibb.co
 0.0.0.0 c.bebi.com
+0.0.0.0 77up.bet
+0.0.0.0 www.ufabet369.net
