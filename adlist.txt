@@ -244,5 +244,10 @@
 0.0.0.0 www.ufabet.com
 0.0.0.0 www.la-ibc.com
 1.1.1.1 www.la-ibc.com
-0.0.0.0 movie222hd.com/wp-content/uploads/16055.gif
+0.0.0.0 www.512xiaojin.com
+0.0.0.0 mechokmelap.com
+0.0.0.0 dubai888.com
+0.0.0.0 www.macau8882.com
+0.0.0.0 sagame77.net
+
 
