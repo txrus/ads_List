@@ -1,6 +1,4 @@
-# Host file to block ads&gambling
-# Title: txrus's adlist for practice
-# Hosts contributed by txrus <mitch.xuixide@gmail.com>
+# Title: adlist 
 # ===================================================================
 
 1.1.1.1 1.bp.blogspot.com
