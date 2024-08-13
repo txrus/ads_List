@@ -1,2 +1,2 @@
 # Ads List
-list of host that used to block ads on pi-hole 
+List of Hosts Used to Block Ads on Pi-hole
